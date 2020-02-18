@@ -1,0 +1,21 @@
+{
+  "size": {
+    "button": {
+      "primary": {
+        "verticalPadding": { "value": "{size.spacing.tightish.value}" },
+        "horizontalPadding": { "value": "{size.spacing.spacious.value}" }
+      },
+      "secondary": {
+        "verticalPadding": { "value": "{size.spacing.tightish.value}" },
+        "horizontalPadding": { "value": "{size.spacing.spacious.value}" }
+      },
+      "tertiary": {
+        "verticalPadding": { "value": "{size.spacing.extratight.value}" },
+        "horizontalPadding": { "value": "{size.spacing.comfy.value}" }
+      }
+    },
+    "buttonGroup": {
+
+    }
+  }
+}

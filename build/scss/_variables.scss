@@ -1,0 +1,158 @@
+
+// Do not edit directly
+// Generated on Tue, 18 Feb 2020 21:44:48 GMT
+
+$color-base-night-100: #e8e9ea;
+$color-base-night-200: #d1d2d6;
+$color-base-night-300: #b9bcc1;
+$color-base-night-400: #a2a5ac;
+$color-base-night-500: #8b8f98;
+$color-base-night-600: #6b717c;
+$color-base-night-700: #515764;
+$color-base-night-800: #2e3545;
+$color-base-night-900: #1a1e28;
+$color-base-night-050: #f3f3f4;
+$color-base-night-800-06: rgba(46, 53, 69, 0.06);
+$color-base-night-800-10: rgba(46, 53, 69, 0.1);
+$color-base-night-800-20: rgba(46, 53, 69, 0.2);
+$color-base-berry-100: #cedff1;
+$color-base-berry-200: #9fc0e4;
+$color-base-berry-300: #70a2d8;
+$color-base-berry-400: #4183cb;
+$color-base-berry-500: #1165bf;
+$color-base-berry-600: #0f56a2;
+$color-base-berry-700: #0c4785;
+$color-base-berry-800: #0a3869;
+$color-base-berry-900: #07284c;
+$color-base-berry-050: #ebf2f9;
+$color-base-mint-100: #d7f2e3;
+$color-base-mint-200: #afe5c7;
+$color-base-mint-300: #87d9aa;
+$color-base-mint-400: #5fcc8e;
+$color-base-mint-500: #37bf72;
+$color-base-mint-600: #339f62;
+$color-base-mint-700: #2f7f51;
+$color-base-mint-800: #2b5f41;
+$color-base-mint-900: #273f30;
+$color-base-mint-050: #eff9f3;
+$color-base-brick-100: #f7dad0;
+$color-base-brick-200: #f0b5a1;
+$color-base-brick-300: #e88f72;
+$color-base-brick-400: #e16a43;
+$color-base-brick-500: #d94514;
+$color-base-brick-600: #b93b11;
+$color-base-brick-700: #98310e;
+$color-base-brick-800: #78260b;
+$color-base-brick-900: #571c08;
+$color-base-brick-050: #fbf0ec;
+$color-base-brick-600-06: rgba(187, 60, 17, 0.06);
+$color-base-beach-100: #cfecf2;
+$color-base-beach-200: #a0d9e5;
+$color-base-beach-300: #70c5d9;
+$color-base-beach-400: #41b2cc;
+$color-base-beach-500: #119fbf;
+$color-base-beach-600: #15859f;
+$color-base-beach-700: #186c7f;
+$color-base-beach-800: #1c5260;
+$color-base-beach-900: #1f3940;
+$color-base-beach-050: #ebf7f9;
+$color-base-grape-100: #ebdcf7;
+$color-base-grape-200: #d7b9f0;
+$color-base-grape-300: #c396e9;
+$color-base-grape-400: #ad6fe1;
+$color-base-grape-500: #9b51db;
+$color-base-grape-600: #7c40af;
+$color-base-grape-700: #5d3083;
+$color-base-grape-800: #3e2057;
+$color-base-grape-900: #1f102b;
+$color-base-grape-050: #f7f1fb;
+$color-base-tang-100: #fceed0;
+$color-base-tang-200: #fadea2;
+$color-base-tang-300: #f7cd73;
+$color-base-tang-400: #f5bd45;
+$color-base-tang-500: #f2ac16;
+$color-base-tang-600: #c88e12;
+$color-base-tang-700: #9e700f;
+$color-base-tang-800: #73520b;
+$color-base-tang-900: #493407;
+$color-base-tang-050: #fdf8ec;
+$color-base-neutral-100: #f6f6f6;
+$color-base-neutral-200: #ededed;
+$color-base-neutral-300: #d3d3d3;
+$color-base-neutral-400: #b0b0b0;
+$color-base-neutral-500: #8d8d8d;
+$color-base-neutral-600: #696969;
+$color-base-neutral-700: #464646;
+$color-base-neutral-800: #292929;
+$color-base-neutral-900: #181818;
+$color-base-neutral-050: #fafafa;
+$color-base-white: #ffffff;
+$color-base-black: #000000;
+$color-base-transparent: rgba(0, 0, 0, 0);
+$color-button-primary-standard-background: #1165bf;
+$color-button-primary-standard-foreground: #ffffff;
+$color-button-primary-destructive-background: #b93b11;
+$color-button-primary-destructive-foreground: #ffffff;
+$color-button-primary-white-background: #ffffff;
+$color-button-primary-white-foreground: #2e3545;
+$color-button-secondary-neutral-background: rgba(46, 53, 69, 0.06);
+$color-button-secondary-neutral-foreground: #2e3545;
+$color-button-secondary-text-link-standard-background: rgba(0, 0, 0, 0);
+$color-button-secondary-text-link-standard-foreground: #1165bf;
+$color-button-secondary-text-link-destructive-background: rgba(0, 0, 0, 0);
+$color-button-secondary-text-link-destructive-foreground: #b93b11;
+$color-button-secondary-text-link-white-background: rgba(0, 0, 0, 0);
+$color-button-secondary-text-link-white-foreground: #ffffff;
+$color-button-tertiary-neutral-background: rgba(46, 53, 69, 0.06);
+$color-button-tertiary-neutral-foreground: #2e3545;
+$color-button-tertiary-standard-background: #1165bf;
+$color-button-tertiary-standard-foreground: #ffffff;
+$color-button-tertiary-destructive-background: rgba(187, 60, 17, 0.06);
+$color-button-tertiary-destructive-foreground: #b93b11;
+$color-button-tertiary-white-background: #ffffff;
+$color-button-tertiary-white-foreground: #2e3545;
+$color-text-primary: #2e3545;
+$color-text-secondary: #6b717c;
+$color-text-link: #1165bf;
+$font-weight-light: 300;
+$font-weight-regular: 400;
+$font-weight-medium: 500;
+$font-weight-semi-bold: 600;
+$font-weight-bold: 700;
+$font-weight-extra-bold: 800;
+$size-spacing-micro: 0.125rem; // 2px
+$size-spacing-extratight: 0.25rem; // 4px
+$size-spacing-tight: 0.5rem; // 8px
+$size-spacing-tightish: 0.75rem; // 12px
+$size-spacing-normal: 1rem; // 16px
+$size-spacing-extra-normal: 1.25rem; // 20px
+$size-spacing-comfy: 1.5rem; // 24px
+$size-spacing-spacious: 2rem; // 32px
+$size-spacing-giant: 3rem; // 48px
+$size-spacing-colossal: 4rem; // 64px
+$size-button-primary-vertical-padding: 0.75rem;
+$size-button-primary-horizontal-padding: 2rem;
+$size-button-secondary-vertical-padding: 0.75rem;
+$size-button-secondary-horizontal-padding: 2rem;
+$size-button-tertiary-vertical-padding: 0.25rem;
+$size-button-tertiary-horizontal-padding: 1.5rem;
+$size-font-micro: 0.625rem; // 10px, legacy, not used much
+$size-font-mini: 0.6825rem; // 11px, legacy extra-small paragraph size + uppercase list headers
+$size-font-uno: 0.75rem; // 12px, new extra-small paragraph size
+$size-font-hecto: 0.875rem; // 14px, new small paragraph size
+$size-font-kilo: 1rem; // 16px, standard paragraph
+$size-font-kilo-digits: 1.125rem; // 18px, for numeric values like transaction amounts
+$size-font-giga: 1.25rem; // 20px, h3
+$size-font-tera: 1.5rem; // 24px, h2
+$size-font-zetta: 2rem; // 32px, h1
+$size-font-bronto: 2.75rem; // 44px, transaction detail view $ amounts
+$size-font-line-height-micro: 0.75rem; // 12px
+$size-font-line-height-mini: 0.875rem; // 14px
+$size-font-line-height-uno: 1rem; // 16px
+$size-font-line-height-hecto: 1.25rem; // 20px
+$size-font-line-height-kilo: 1.5rem; // 24px
+$size-font-line-height-kilo-digits: 1.5rem; // 24px
+$size-font-line-height-giga: 1.75rem; // 28px
+$size-font-line-height-tera: 2rem; // 32px
+$size-font-line-height-zetta: 2.5rem; // 40px
+$size-font-line-height-bronto: 2.75rem; // 44px

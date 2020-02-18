@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Tue, 18 Feb 2020 21:44:48 GMT
+-->
+<resources>
+  <dimen name="size_font_micro">10.00sp</dimen><!-- 10px, legacy, not used much -->
+  <dimen name="size_font_mini">10.92sp</dimen><!-- 11px, legacy extra-small paragraph size + uppercase list headers -->
+  <dimen name="size_font_uno">12.00sp</dimen><!-- 12px, new extra-small paragraph size -->
+  <dimen name="size_font_hecto">14.00sp</dimen><!-- 14px, new small paragraph size -->
+  <dimen name="size_font_kilo">16.00sp</dimen><!-- 16px, standard paragraph -->
+  <dimen name="size_font_kilo_digits">18.00sp</dimen><!-- 18px, for numeric values like transaction amounts -->
+  <dimen name="size_font_giga">20.00sp</dimen><!-- 20px, h3 -->
+  <dimen name="size_font_tera">24.00sp</dimen><!-- 24px, h2 -->
+  <dimen name="size_font_zetta">32.00sp</dimen><!-- 32px, h1 -->
+  <dimen name="size_font_bronto">44.00sp</dimen><!-- 44px, transaction detail view $ amounts -->
+  <dimen name="size_font_line_height_micro">12.00sp</dimen><!-- 12px -->
+  <dimen name="size_font_line_height_mini">14.00sp</dimen><!-- 14px -->
+  <dimen name="size_font_line_height_uno">16.00sp</dimen><!-- 16px -->
+  <dimen name="size_font_line_height_hecto">20.00sp</dimen><!-- 20px -->
+  <dimen name="size_font_line_height_kilo">24.00sp</dimen><!-- 24px -->
+  <dimen name="size_font_line_height_kilo_digits">24.00sp</dimen><!-- 24px -->
+  <dimen name="size_font_line_height_giga">28.00sp</dimen><!-- 28px -->
+  <dimen name="size_font_line_height_tera">32.00sp</dimen><!-- 32px -->
+  <dimen name="size_font_line_height_zetta">40.00sp</dimen><!-- 40px -->
+  <dimen name="size_font_line_height_bronto">44.00sp</dimen><!-- 44px -->
+  
+</resources>

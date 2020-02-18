@@ -1,0 +1,58 @@
+{
+  "color": {
+    "button": {
+      "primary": {
+        "standard": {
+          "background": { "value": "{color.base.berry.500.value}" },
+          "foreground": { "value": "{color.base.white.value}" }
+        },
+        "destructive": {
+          "background": { "value": "{color.base.brick.600.value}" },
+          "foreground": { "value": "{color.base.white.value}" }
+        },
+        "white": {
+          "background": { "value": "{color.base.white.value}" },
+          "foreground": { "value": "{color.base.night.800.value}" }
+        }
+      },
+      "secondary": {
+        "neutral": {
+          "background": { "value": "{color.base.night.800-06.value}" },
+          "foreground": { "value": "{color.base.night.800.value}" }
+        },
+        "text link": {
+          "standard": {
+            "background": { "value": "{color.base.transparent.value}"},
+            "foreground": { "value": "{color.base.berry.500.value}"}
+          },
+          "destructive": {
+            "background": { "value": "{color.base.transparent.value}"},
+            "foreground": { "value": "{color.base.brick.600.value}"}
+          },
+          "white": {
+            "background": { "value": "{color.base.transparent.value}"},
+            "foreground": { "value": "{color.base.white.value}"}
+          }
+        }
+      },
+      "tertiary": {
+        "neutral": {
+          "background": { "value": "{color.base.night.800-06.value}" },
+          "foreground": { "value": "{color.base.night.800.value}" }
+        },
+        "standard": {
+          "background": { "value": "{color.base.berry.500.value}"},
+          "foreground": { "value": "{color.base.white.value}"}
+        },
+        "destructive": {
+          "background": { "value": "{color.base.brick.600-06.value}"},
+          "foreground": { "value": "{color.base.brick.600.value}"}
+        },
+        "white": {
+          "background": { "value": "{color.base.white.value}"},
+          "foreground": { "value": "{color.base.night.800.value}"}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "size": {
+    "spacing": {
+      "micro": {
+        "value": ".125",
+        "comment": "2px"
+      },
+      "extratight": {
+        "value": ".25",
+        "comment": "4px"
+      },
+      "tight": {
+        "value": ".5",
+        "comment": "8px"
+      },
+      "tightish": {
+        "value": ".75",
+        "comment": "12px"
+      },
+      "normal": {
+        "value": "1",
+        "comment": "16px"
+      },
+      "extraNormal": {
+        "value": "1.25",
+        "comment": "20px"
+      },
+      "comfy": {
+        "value": "1.5",
+        "comment": "24px"
+      },
+      "spacious": {
+        "value": "2",
+        "comment": "32px"
+      },
+      "giant": {
+        "value": "3",
+        "comment": "48px"
+      },
+      "colossal": {
+        "value": "4",
+        "comment": "64px"
+      }
+    }
+  }
+}

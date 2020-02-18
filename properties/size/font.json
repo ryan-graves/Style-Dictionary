@@ -1,0 +1,29 @@
+{
+  "size": {
+    "font": {
+      "micro": { "value": "0.625", "comment": "10px, legacy, not used much" },
+      "mini": { "value": "0.6825", "comment": "11px, legacy extra-small paragraph size + uppercase list headers" },
+      "uno": { "value": "0.75", "comment": "12px, new extra-small paragraph size" },
+      "hecto": { "value": "0.875", "comment": "14px, new small paragraph size" },
+      "kilo": { "value": "1", "comment": "16px, standard paragraph" },
+      "kiloDigits": { "value": "1.125", "comment": "18px, for numeric values like transaction amounts" },
+      "giga": { "value": "1.25", "comment": "20px, h3" },
+      "tera": { "value": "1.5", "comment": "24px, h2" },
+      "zetta": { "value": "2", "comment": "32px, h1" },
+      "bronto": { "value": "2.75", "comment": "44px, transaction detail view $ amounts" },
+
+      "lineHeight": {
+        "micro": { "value": "0.75", "comment": "12px" },
+        "mini": { "value": "0.875", "comment": "14px" },
+        "uno": { "value": "1", "comment": "16px" },
+        "hecto": { "value": "1.25", "comment": "20px" },
+        "kilo": { "value": "1.5", "comment": "24px" },
+        "kiloDigits": { "value": "1.5", "comment": "24px" },
+        "giga": { "value": "1.75", "comment": "28px" },
+        "tera": { "value": "2", "comment": "32px" },
+        "zetta": { "value": "2.5", "comment": "40px" },
+        "bronto": { "value": "2.75", "comment": "44px" }
+      }
+    }
+  }
+}
