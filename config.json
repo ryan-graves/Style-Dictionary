@@ -13,8 +13,17 @@
       "transformGroup": "js",
       "buildPath": "build/javascript/",
       "files": [{
+        "name": "aspStyles",
         "destination": "variables.js",
-        "format": "javascript/es6"
+        "format": "javascript/object"
+      }]
+    },
+    "json/nested": {
+      "transformGroup": "js",
+      "buildPath": "build/json/",
+      "files": [{
+        "destination": "variables.json",
+        "format": "json/nested"
       }]
     },
     "android": {
