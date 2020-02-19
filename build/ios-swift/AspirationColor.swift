@@ -3,7 +3,7 @@
 // AspirationColor.swift
 //
 // Do not edit directly
-// Generated on Tue, 18 Feb 2020 21:44:48 GMT
+// Generated on Wed, 19 Feb 2020 20:59:22 GMT
 //
 
 import UIKit
