@@ -3,7 +3,7 @@
 // AspirationColor.swift
 //
 // Do not edit directly
-// Generated on Wed, 19 Feb 2020 21:16:32 GMT
+// Generated on Fri, 13 Mar 2020 17:06:53 GMT
 //
 
 import UIKit
@@ -97,10 +97,16 @@ public enum AspirationColor {
     public static let baseTransparent = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha:0)
     public static let baseWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha:1)
     public static let buttonPrimaryDestructiveBackground = UIColor(red: 0.725, green: 0.231, blue: 0.067, alpha:1)
+    public static let buttonPrimaryDestructiveDarkBackground = UIColor(red: 0.596, green: 0.192, blue: 0.055, alpha:1)
+    public static let buttonPrimaryDestructiveDarkForeground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha:1)
     public static let buttonPrimaryDestructiveForeground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha:1)
     public static let buttonPrimaryStandardBackground = UIColor(red: 0.067, green: 0.396, blue: 0.749, alpha:1)
+    public static let buttonPrimaryStandardDarkBackground = UIColor(red: 0.059, green: 0.337, blue: 0.635, alpha:1)
+    public static let buttonPrimaryStandardDarkForeground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha:1)
     public static let buttonPrimaryStandardForeground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha:1)
     public static let buttonPrimaryWhiteBackground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha:1)
+    public static let buttonPrimaryWhiteDarkBackground = UIColor(red: 0.180, green: 0.208, blue: 0.271, alpha:1)
+    public static let buttonPrimaryWhiteDarkForeground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha:1)
     public static let buttonPrimaryWhiteForeground = UIColor(red: 0.180, green: 0.208, blue: 0.271, alpha:1)
     public static let buttonSecondaryNeutralBackground = UIColor(red: 0.180, green: 0.208, blue: 0.271, alpha:0.06)
     public static let buttonSecondaryNeutralForeground = UIColor(red: 0.180, green: 0.208, blue: 0.271, alpha:1)
@@ -121,4 +127,5 @@ public enum AspirationColor {
     public static let textLink = UIColor(red: 0.067, green: 0.396, blue: 0.749, alpha:1)
     public static let textPrimary = UIColor(red: 0.180, green: 0.208, blue: 0.271, alpha:1)
     public static let textSecondary = UIColor(red: 0.420, green: 0.443, blue: 0.486, alpha:1)
+    public static let textWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha:1)
 }

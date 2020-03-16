@@ -3,7 +3,7 @@
 // AspirationSize.swift
 //
 // Do not edit directly
-// Generated on Wed, 19 Feb 2020 21:16:32 GMT
+// Generated on Fri, 13 Mar 2020 17:06:53 GMT
 //
 
 import UIKit

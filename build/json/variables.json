@@ -109,15 +109,27 @@
       "primary": {
         "standard": {
           "background": "#1165bf",
-          "foreground": "#ffffff"
+          "foreground": "#ffffff",
+          "dark": {
+            "background": "#0f56a2",
+            "foreground": "#ffffff"
+          }
         },
         "destructive": {
           "background": "#b93b11",
-          "foreground": "#ffffff"
+          "foreground": "#ffffff",
+          "dark": {
+            "background": "#98310e",
+            "foreground": "#ffffff"
+          }
         },
         "white": {
           "background": "#ffffff",
-          "foreground": "#2e3545"
+          "foreground": "#2e3545",
+          "dark": {
+            "background": "#2e3545",
+            "foreground": "#ffffff"
+          }
         }
       },
       "secondary": {
@@ -162,7 +174,8 @@
     "text": {
       "primary": "#2e3545",
       "secondary": "#6b717c",
-      "link": "#1165bf"
+      "link": "#1165bf",
+      "white": "#ffffff"
     }
   },
   "fontWeight": {

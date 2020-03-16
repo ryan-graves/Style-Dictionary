@@ -4,15 +4,27 @@
       "primary": {
         "standard": {
           "background": { "value": "{color.base.berry.500.value}" },
-          "foreground": { "value": "{color.base.white.value}" }
+          "foreground": { "value": "{color.base.white.value}" },
+          "dark": {
+            "background": { "value": "{color.base.berry.600.value}" },
+            "foreground": { "value": "{color.base.white.value}" }
+          }
         },
         "destructive": {
           "background": { "value": "{color.base.brick.600.value}" },
-          "foreground": { "value": "{color.base.white.value}" }
+          "foreground": { "value": "{color.base.white.value}" },
+          "dark": {
+            "background": { "value": "{color.base.brick.700.value}" },
+            "foreground": { "value": "{color.base.white.value}" }
+          }
         },
         "white": {
           "background": { "value": "{color.base.white.value}" },
-          "foreground": { "value": "{color.base.night.800.value}" }
+          "foreground": { "value": "{color.base.night.800.value}" },
+          "dark": {
+            "background": { "value": "{color.base.night.800.value}" },
+            "foreground": { "value": "{color.base.white.value}" }
+          }
         }
       },
       "secondary": {

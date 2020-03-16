@@ -3,7 +3,7 @@
 // Aspiration.swift
 //
 // Do not edit directly
-// Generated on Wed, 19 Feb 2020 21:16:32 GMT
+// Generated on Fri, 13 Mar 2020 17:06:53 GMT
 //
 
 
@@ -98,10 +98,16 @@ public class Aspiration {
     public static let colorBaseTransparent = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha:0)
     public static let colorBaseWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha:1)
     public static let colorButtonPrimaryDestructiveBackground = UIColor(red: 0.725, green: 0.231, blue: 0.067, alpha:1)
+    public static let colorButtonPrimaryDestructiveDarkBackground = UIColor(red: 0.596, green: 0.192, blue: 0.055, alpha:1)
+    public static let colorButtonPrimaryDestructiveDarkForeground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha:1)
     public static let colorButtonPrimaryDestructiveForeground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha:1)
     public static let colorButtonPrimaryStandardBackground = UIColor(red: 0.067, green: 0.396, blue: 0.749, alpha:1)
+    public static let colorButtonPrimaryStandardDarkBackground = UIColor(red: 0.059, green: 0.337, blue: 0.635, alpha:1)
+    public static let colorButtonPrimaryStandardDarkForeground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha:1)
     public static let colorButtonPrimaryStandardForeground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha:1)
     public static let colorButtonPrimaryWhiteBackground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha:1)
+    public static let colorButtonPrimaryWhiteDarkBackground = UIColor(red: 0.180, green: 0.208, blue: 0.271, alpha:1)
+    public static let colorButtonPrimaryWhiteDarkForeground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha:1)
     public static let colorButtonPrimaryWhiteForeground = UIColor(red: 0.180, green: 0.208, blue: 0.271, alpha:1)
     public static let colorButtonSecondaryNeutralBackground = UIColor(red: 0.180, green: 0.208, blue: 0.271, alpha:0.06)
     public static let colorButtonSecondaryNeutralForeground = UIColor(red: 0.180, green: 0.208, blue: 0.271, alpha:1)
@@ -122,6 +128,7 @@ public class Aspiration {
     public static let colorTextLink = UIColor(red: 0.067, green: 0.396, blue: 0.749, alpha:1)
     public static let colorTextPrimary = UIColor(red: 0.180, green: 0.208, blue: 0.271, alpha:1)
     public static let colorTextSecondary = UIColor(red: 0.420, green: 0.443, blue: 0.486, alpha:1)
+    public static let colorTextWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha:1)
     public static let fontWeightBold = 700
     public static let fontWeightExtraBold = 800
     public static let fontWeightLight = 300

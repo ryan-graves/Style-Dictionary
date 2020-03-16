@@ -3,7 +3,8 @@
     "text": {
       "primary"   : { "value": "{color.base.night.800.value}" },
       "secondary" : { "value": "{color.base.night.600.value}" },
-      "link"      : { "value": "{color.base.berry.500.value}" }
+      "link"      : { "value": "{color.base.berry.500.value}" },
+      "white"     : { "value": "{color.base.white.value}"}
     }
   }
 }

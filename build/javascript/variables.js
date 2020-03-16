@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 19 Feb 2020 21:16:32 GMT
+ * Generated on Fri, 13 Mar 2020 17:06:53 GMT
  */
 
 var aspStyles = {
@@ -1714,6 +1714,52 @@ var aspStyles = {
               "standard",
               "foreground"
             ]
+          },
+          "dark": {
+            "background": {
+              "value": "#0f56a2",
+              "original": {
+                "value": "{color.base.berry.600.value}"
+              },
+              "name": "ColorButtonPrimaryStandardDarkBackground",
+              "attributes": {
+                "category": "color",
+                "type": "button",
+                "item": "primary",
+                "subitem": "standard",
+                "state": "dark"
+              },
+              "path": [
+                "color",
+                "button",
+                "primary",
+                "standard",
+                "dark",
+                "background"
+              ]
+            },
+            "foreground": {
+              "value": "#ffffff",
+              "original": {
+                "value": "{color.base.white.value}"
+              },
+              "name": "ColorButtonPrimaryStandardDarkForeground",
+              "attributes": {
+                "category": "color",
+                "type": "button",
+                "item": "primary",
+                "subitem": "standard",
+                "state": "dark"
+              },
+              "path": [
+                "color",
+                "button",
+                "primary",
+                "standard",
+                "dark",
+                "foreground"
+              ]
+            }
           }
         },
         "destructive": {
@@ -1758,6 +1804,52 @@ var aspStyles = {
               "destructive",
               "foreground"
             ]
+          },
+          "dark": {
+            "background": {
+              "value": "#98310e",
+              "original": {
+                "value": "{color.base.brick.700.value}"
+              },
+              "name": "ColorButtonPrimaryDestructiveDarkBackground",
+              "attributes": {
+                "category": "color",
+                "type": "button",
+                "item": "primary",
+                "subitem": "destructive",
+                "state": "dark"
+              },
+              "path": [
+                "color",
+                "button",
+                "primary",
+                "destructive",
+                "dark",
+                "background"
+              ]
+            },
+            "foreground": {
+              "value": "#ffffff",
+              "original": {
+                "value": "{color.base.white.value}"
+              },
+              "name": "ColorButtonPrimaryDestructiveDarkForeground",
+              "attributes": {
+                "category": "color",
+                "type": "button",
+                "item": "primary",
+                "subitem": "destructive",
+                "state": "dark"
+              },
+              "path": [
+                "color",
+                "button",
+                "primary",
+                "destructive",
+                "dark",
+                "foreground"
+              ]
+            }
           }
         },
         "white": {
@@ -1802,6 +1894,52 @@ var aspStyles = {
               "white",
               "foreground"
             ]
+          },
+          "dark": {
+            "background": {
+              "value": "#2e3545",
+              "original": {
+                "value": "{color.base.night.800.value}"
+              },
+              "name": "ColorButtonPrimaryWhiteDarkBackground",
+              "attributes": {
+                "category": "color",
+                "type": "button",
+                "item": "primary",
+                "subitem": "white",
+                "state": "dark"
+              },
+              "path": [
+                "color",
+                "button",
+                "primary",
+                "white",
+                "dark",
+                "background"
+              ]
+            },
+            "foreground": {
+              "value": "#ffffff",
+              "original": {
+                "value": "{color.base.white.value}"
+              },
+              "name": "ColorButtonPrimaryWhiteDarkForeground",
+              "attributes": {
+                "category": "color",
+                "type": "button",
+                "item": "primary",
+                "subitem": "white",
+                "state": "dark"
+              },
+              "path": [
+                "color",
+                "button",
+                "primary",
+                "white",
+                "dark",
+                "foreground"
+              ]
+            }
           }
         }
       },
@@ -2220,6 +2358,23 @@ var aspStyles = {
           "color",
           "text",
           "link"
+        ]
+      },
+      "white": {
+        "value": "#ffffff",
+        "original": {
+          "value": "{color.base.white.value}"
+        },
+        "name": "ColorTextWhite",
+        "attributes": {
+          "category": "color",
+          "type": "text",
+          "item": "white"
+        },
+        "path": [
+          "color",
+          "text",
+          "white"
         ]
       }
     }

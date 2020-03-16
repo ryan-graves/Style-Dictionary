@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 19 Feb 2020 21:16:32 GMT
+  Generated on Fri, 13 Mar 2020 17:06:53 GMT
 -->
 <resources>
   <color name="color_base_night_100">#ffe8e9ea</color>
@@ -94,10 +94,16 @@
   <color name="color_base_transparent">#00000000</color>
   <color name="color_button_primary_standard_background">#ff1165bf</color>
   <color name="color_button_primary_standard_foreground">#ffffffff</color>
+  <color name="color_button_primary_standard_dark_background">#ff0f56a2</color>
+  <color name="color_button_primary_standard_dark_foreground">#ffffffff</color>
   <color name="color_button_primary_destructive_background">#ffb93b11</color>
   <color name="color_button_primary_destructive_foreground">#ffffffff</color>
+  <color name="color_button_primary_destructive_dark_background">#ff98310e</color>
+  <color name="color_button_primary_destructive_dark_foreground">#ffffffff</color>
   <color name="color_button_primary_white_background">#ffffffff</color>
   <color name="color_button_primary_white_foreground">#ff2e3545</color>
+  <color name="color_button_primary_white_dark_background">#ff2e3545</color>
+  <color name="color_button_primary_white_dark_foreground">#ffffffff</color>
   <color name="color_button_secondary_neutral_background">#0f2e3545</color>
   <color name="color_button_secondary_neutral_foreground">#ff2e3545</color>
   <color name="color_button_secondary_text_link_standard_background">#00000000</color>
@@ -117,5 +123,6 @@
   <color name="color_text_primary">#ff2e3545</color>
   <color name="color_text_secondary">#ff6b717c</color>
   <color name="color_text_link">#ff1165bf</color>
+  <color name="color_text_white">#ffffffff</color>
   
 </resources>
