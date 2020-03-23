@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 17 Mar 2020 23:35:13 GMT
+ * Generated on Fri, 20 Mar 2020 23:23:23 GMT
  */
 
 var aspStyles = {
@@ -444,6 +444,25 @@ var aspStyles = {
             "base",
             "berry",
             "050"
+          ]
+        },
+        "500-40": {
+          "value": "#1165bf",
+          "original": {
+            "value": "rgba(17,101,191, 0.40)"
+          },
+          "name": "ColorBaseBerry50040",
+          "attributes": {
+            "category": "color",
+            "type": "base",
+            "item": "berry",
+            "subitem": "500-40"
+          },
+          "path": [
+            "color",
+            "base",
+            "berry",
+            "500-40"
           ]
         }
       },
@@ -2703,6 +2722,44 @@ var aspStyles = {
             "primary",
             "horizontalPadding"
           ]
+        },
+        "fontSize": {
+          "value": "1rem",
+          "original": {
+            "value": "{size.font.kilo.value}"
+          },
+          "name": "SizeButtonPrimaryFontSize",
+          "attributes": {
+            "category": "size",
+            "type": "button",
+            "item": "primary",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "size",
+            "button",
+            "primary",
+            "fontSize"
+          ]
+        },
+        "lineHeight": {
+          "value": "1.5rem",
+          "original": {
+            "value": "{size.font.lineHeight.kilo.value}"
+          },
+          "name": "SizeButtonPrimaryLineHeight",
+          "attributes": {
+            "category": "size",
+            "type": "button",
+            "item": "primary",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "size",
+            "button",
+            "primary",
+            "lineHeight"
+          ]
         }
       },
       "secondary": {
@@ -2742,6 +2799,44 @@ var aspStyles = {
             "button",
             "secondary",
             "horizontalPadding"
+          ]
+        },
+        "fontSize": {
+          "value": "1rem",
+          "original": {
+            "value": "{size.font.kilo.value}"
+          },
+          "name": "SizeButtonSecondaryFontSize",
+          "attributes": {
+            "category": "size",
+            "type": "button",
+            "item": "secondary",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "size",
+            "button",
+            "secondary",
+            "fontSize"
+          ]
+        },
+        "lineHeight": {
+          "value": "1.5rem",
+          "original": {
+            "value": "{size.font.lineHeight.kilo.value}"
+          },
+          "name": "SizeButtonSecondaryLineHeight",
+          "attributes": {
+            "category": "size",
+            "type": "button",
+            "item": "secondary",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "size",
+            "button",
+            "secondary",
+            "lineHeight"
           ]
         }
       },
@@ -2783,10 +2878,47 @@ var aspStyles = {
             "tertiary",
             "horizontalPadding"
           ]
+        },
+        "fontSize": {
+          "value": "0.875rem",
+          "original": {
+            "value": "{size.font.hecto.value}"
+          },
+          "name": "SizeButtonTertiaryFontSize",
+          "attributes": {
+            "category": "size",
+            "type": "button",
+            "item": "tertiary",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "size",
+            "button",
+            "tertiary",
+            "fontSize"
+          ]
+        },
+        "lineHeight": {
+          "value": "1.25rem",
+          "original": {
+            "value": "{size.font.lineHeight.hecto.value}"
+          },
+          "name": "SizeButtonTertiaryLineHeight",
+          "attributes": {
+            "category": "size",
+            "type": "button",
+            "item": "tertiary",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "size",
+            "button",
+            "tertiary",
+            "lineHeight"
+          ]
         }
       }
     },
-    "buttonGroup": {},
     "font": {
       "micro": {
         "value": "0.625rem",

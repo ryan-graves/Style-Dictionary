@@ -3,7 +3,7 @@
 // AspirationColor.swift
 //
 // Do not edit directly
-// Generated on Tue, 17 Mar 2020 23:35:13 GMT
+// Generated on Fri, 20 Mar 2020 23:23:23 GMT
 //
 
 import UIKit
@@ -25,6 +25,7 @@ public enum AspirationColor {
     public static let baseBerry300 = UIColor(red: 0.439, green: 0.635, blue: 0.847, alpha:1)
     public static let baseBerry400 = UIColor(red: 0.255, green: 0.514, blue: 0.796, alpha:1)
     public static let baseBerry500 = UIColor(red: 0.067, green: 0.396, blue: 0.749, alpha:1)
+    public static let baseBerry50040 = UIColor(red: 0.067, green: 0.396, blue: 0.749, alpha:0.4)
     public static let baseBerry600 = UIColor(red: 0.059, green: 0.337, blue: 0.635, alpha:1)
     public static let baseBerry700 = UIColor(red: 0.047, green: 0.278, blue: 0.522, alpha:1)
     public static let baseBerry800 = UIColor(red: 0.039, green: 0.220, blue: 0.412, alpha:1)

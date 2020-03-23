@@ -26,7 +26,8 @@
         "700": "#0c4785",
         "800": "#0a3869",
         "900": "#07284c",
-        "050": "#ebf2f9"
+        "050": "#ebf2f9",
+        "500-40": "#1165bf"
       },
       "mint": {
         "100": "#d7f2e3",
@@ -202,18 +203,23 @@
     "button": {
       "primary": {
         "verticalPadding": "0.75rem",
-        "horizontalPadding": "2rem"
+        "horizontalPadding": "2rem",
+        "fontSize": "1rem",
+        "lineHeight": "1.5rem"
       },
       "secondary": {
         "verticalPadding": "0.75rem",
-        "horizontalPadding": "2rem"
+        "horizontalPadding": "2rem",
+        "fontSize": "1rem",
+        "lineHeight": "1.5rem"
       },
       "tertiary": {
         "verticalPadding": "0.25rem",
-        "horizontalPadding": "1.5rem"
+        "horizontalPadding": "1.5rem",
+        "fontSize": "0.875rem",
+        "lineHeight": "1.25rem"
       }
     },
-    "buttonGroup": {},
     "font": {
       "micro": "0.625rem",
       "mini": "0.6825rem",

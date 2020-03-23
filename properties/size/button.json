@@ -3,19 +3,23 @@
     "button": {
       "primary": {
         "verticalPadding": { "value": "{size.spacing.tightish.value}" },
-        "horizontalPadding": { "value": "{size.spacing.spacious.value}" }
+        "horizontalPadding": { "value": "{size.spacing.spacious.value}" },
+        "fontSize": {"value": "{size.font.kilo.value}"},
+        "lineHeight": {"value": "{size.font.lineHeight.kilo.value}"}
       },
       "secondary": {
         "verticalPadding": { "value": "{size.spacing.tightish.value}" },
-        "horizontalPadding": { "value": "{size.spacing.spacious.value}" }
+        "horizontalPadding": { "value": "{size.spacing.spacious.value}" },
+        "fontSize": {"value": "{size.font.kilo.value}"},
+        "lineHeight": {"value": "{size.font.lineHeight.kilo.value}"}
       },
       "tertiary": {
         "verticalPadding": { "value": "{size.spacing.extratight.value}" },
-        "horizontalPadding": { "value": "{size.spacing.comfy.value}" }
+        "horizontalPadding": { "value": "{size.spacing.comfy.value}" },
+        "fontSize": {"value": "{size.font.hecto.value}"},
+        "lineHeight": {"value": "{size.font.lineHeight.hecto.value}"}
       }
-    },
-    "buttonGroup": {
-
     }
   }
 }
+ 

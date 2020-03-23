@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Tue, 17 Mar 2020 23:35:13 GMT
+// Generated on Fri, 20 Mar 2020 23:23:23 GMT
 
 $color-base-night-100: #e8e9ea;
 $color-base-night-200: #d1d2d6;
@@ -25,6 +25,7 @@ $color-base-berry-700: #0c4785;
 $color-base-berry-800: #0a3869;
 $color-base-berry-900: #07284c;
 $color-base-berry-050: #ebf2f9;
+$color-base-berry-500-40: rgba(17, 101, 191, 0.4);
 $color-base-mint-100: #d7f2e3;
 $color-base-mint-200: #afe5c7;
 $color-base-mint-300: #87d9aa;
@@ -139,10 +140,16 @@ $size-spacing-giant: 3rem; // 48px
 $size-spacing-colossal: 4rem; // 64px
 $size-button-primary-vertical-padding: 0.75rem;
 $size-button-primary-horizontal-padding: 2rem;
+$size-button-primary-font-size: 1rem;
+$size-button-primary-line-height: 1.5rem;
 $size-button-secondary-vertical-padding: 0.75rem;
 $size-button-secondary-horizontal-padding: 2rem;
+$size-button-secondary-font-size: 1rem;
+$size-button-secondary-line-height: 1.5rem;
 $size-button-tertiary-vertical-padding: 0.25rem;
 $size-button-tertiary-horizontal-padding: 1.5rem;
+$size-button-tertiary-font-size: 0.875rem;
+$size-button-tertiary-line-height: 1.25rem;
 $size-font-micro: 0.625rem; // 10px, legacy, not used much
 $size-font-mini: 0.6825rem; // 11px, legacy extra-small paragraph size + uppercase list headers
 $size-font-uno: 0.75rem; // 12px, new extra-small paragraph size

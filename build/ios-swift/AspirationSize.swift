@@ -3,17 +3,23 @@
 // AspirationSize.swift
 //
 // Do not edit directly
-// Generated on Tue, 17 Mar 2020 23:35:13 GMT
+// Generated on Fri, 20 Mar 2020 23:23:23 GMT
 //
 
 import UIKit
 
 public enum AspirationSize {
+    public static let buttonPrimaryFontSize = CGFloat(16.00)
     public static let buttonPrimaryHorizontalPadding = CGFloat(32.00)
+    public static let buttonPrimaryLineHeight = CGFloat(24.00)
     public static let buttonPrimaryVerticalPadding = CGFloat(12.00)
+    public static let buttonSecondaryFontSize = CGFloat(16.00)
     public static let buttonSecondaryHorizontalPadding = CGFloat(32.00)
+    public static let buttonSecondaryLineHeight = CGFloat(24.00)
     public static let buttonSecondaryVerticalPadding = CGFloat(12.00)
+    public static let buttonTertiaryFontSize = CGFloat(14.00)
     public static let buttonTertiaryHorizontalPadding = CGFloat(24.00)
+    public static let buttonTertiaryLineHeight = CGFloat(20.00)
     public static let buttonTertiaryVerticalPadding = CGFloat(4.00)
     public static let fontBronto = CGFloat(44.00)
     public static let fontGiga = CGFloat(20.00)

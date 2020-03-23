@@ -3,7 +3,7 @@
 // Aspiration.swift
 //
 // Do not edit directly
-// Generated on Tue, 17 Mar 2020 23:35:13 GMT
+// Generated on Fri, 20 Mar 2020 23:23:23 GMT
 //
 
 
@@ -26,6 +26,7 @@ public class Aspiration {
     public static let colorBaseBerry300 = UIColor(red: 0.439, green: 0.635, blue: 0.847, alpha:1)
     public static let colorBaseBerry400 = UIColor(red: 0.255, green: 0.514, blue: 0.796, alpha:1)
     public static let colorBaseBerry500 = UIColor(red: 0.067, green: 0.396, blue: 0.749, alpha:1)
+    public static let colorBaseBerry50040 = UIColor(red: 0.067, green: 0.396, blue: 0.749, alpha:0.4)
     public static let colorBaseBerry600 = UIColor(red: 0.059, green: 0.337, blue: 0.635, alpha:1)
     public static let colorBaseBerry700 = UIColor(red: 0.047, green: 0.278, blue: 0.522, alpha:1)
     public static let colorBaseBerry800 = UIColor(red: 0.039, green: 0.220, blue: 0.412, alpha:1)
@@ -135,11 +136,17 @@ public class Aspiration {
     public static let fontWeightMedium = 500
     public static let fontWeightRegular = 400
     public static let fontWeightSemiBold = 600
+    public static let sizeButtonPrimaryFontSize = CGFloat(16.00)
     public static let sizeButtonPrimaryHorizontalPadding = CGFloat(32.00)
+    public static let sizeButtonPrimaryLineHeight = CGFloat(24.00)
     public static let sizeButtonPrimaryVerticalPadding = CGFloat(12.00)
+    public static let sizeButtonSecondaryFontSize = CGFloat(16.00)
     public static let sizeButtonSecondaryHorizontalPadding = CGFloat(32.00)
+    public static let sizeButtonSecondaryLineHeight = CGFloat(24.00)
     public static let sizeButtonSecondaryVerticalPadding = CGFloat(12.00)
+    public static let sizeButtonTertiaryFontSize = CGFloat(14.00)
     public static let sizeButtonTertiaryHorizontalPadding = CGFloat(24.00)
+    public static let sizeButtonTertiaryLineHeight = CGFloat(20.00)
     public static let sizeButtonTertiaryVerticalPadding = CGFloat(4.00)
     public static let sizeFontBronto = CGFloat(44.00)
     public static let sizeFontGiga = CGFloat(20.00)

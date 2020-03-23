@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 17 Mar 2020 23:35:13 GMT
+  Generated on Fri, 20 Mar 2020 23:23:23 GMT
 -->
 <resources>
   <color name="color_base_night_100">#ffe8e9ea</color>
@@ -28,6 +28,7 @@
   <color name="color_base_berry_800">#ff0a3869</color>
   <color name="color_base_berry_900">#ff07284c</color>
   <color name="color_base_berry_050">#ffebf2f9</color>
+  <color name="color_base_berry_500_40">#661165bf</color>
   <color name="color_base_mint_100">#ffd7f2e3</color>
   <color name="color_base_mint_200">#ffafe5c7</color>
   <color name="color_base_mint_300">#ff87d9aa</color>
